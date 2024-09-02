@@ -11,26 +11,26 @@
 
 Date            | Class Information                                                              | Homework             | Reading
 ----------------|--------------------------------------------------------------------------------|----------------------|--------------
-                | **Introduction to Linux**                                                      |                      |
+&nbsp;          | **Introduction to Linux**                                                      | &nbsp;               | &nbsp; 
 W 01/25/23      | C01 - Operating Systems, Docker and Linux               [ [Slides][s01] ]      | [HW01][hw01]         | [What is open source?](https://opensource.com/resources/what-open-source)
 W 02/01/23      | C02 - Linux Command Line Interface (CLI)                [ [Slides][s02] ]      | [HW02][hw02]         | [Everything You Should Know About Proprietary Software](https://www.brainspire.com/blog/what-you-should-know-about-proprietary-software-brainspire)
 W 02/08/23      | C03 - Linux Filters, Scripts and Pipes                  [ [Slides][s03] ]      | [HW03][hw03]         | [The False Debate Between Open and Closed in Tech](https://www.theverge.com/2016/3/16/11242266/walt-mossberg-open-vs-closed-software-apple-os-x-google-android)
 W 02/15/23      | C04 - Installing Software                               [ [Slides][s04] ]      | [HW04][hw04]         | [The Problem With Diversity in Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456/)
 W 02/22/23      | C05 - Docker: Dockerfiles and Images                    [ [Slides][s05] ]      | [HW05][hw05]         | [We Teach A.I. Systems Everything, Including Our Biases](https://lms.dickinson.edu/mod/resource/view.php?id=1152821)
-                | **Open Source Projects and Structures**                                        |                      |
+&nbsp;          | **Open Source Projects and Structures**                                        |                      |
 W 03/01/23      | C06 - Intellectual Property and Software Licensing      [ [Slides][s06] ]      | [HW06][hw06]         | [Dealing With Bias in Artificial Intelligence](https://lms.dickinson.edu/mod/resource/view.php?id=1152822)
 W 03/08/23      | C07 - FOSS Project Structures                           [ [Slides][s07] ]      | [HW07][hw07]         | [Can we Make Our Robots Less Biased Than We Are?](https://lms.dickinson.edu/mod/resource/view.php?id=1176432)
-                | *Spring Break*                                                                 |                      |
+&nbsp;          | *Spring Break*                                                                 |                      |
 W 03/22/23      | No class meeting.                                                              |                      |
 W 03/29/23      | C08 - FarmData2 & Issue Trackers (WiD)                  [ [Slides][s08] ]      | [HW08][hw08]         | [Mastodon issues 30-day ultimatum to Trump's social network](https://techcrunch.com/2021/10/29/mastodon-issues-30-day-ultimatum-to-trumps-social-network-over-misuse-of-its-code/)
-                | **Open Source Tools and Collaboration**                                        |                      |
+&nbsp;          | **Open Source Tools and Collaboration**                                        |                      |
 W 04/05/23      | C09 - Communities and Collaboration                     [ [Slides][s09] ]      | [HW09][hw09]         | [Commercial Images Generating AI Raises Thorny Legal Issues](https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/)
 W 04/12/23      | C10 - Upstreaming Contributions                         [ [Slides][s10] ]      | [HW10][hw10]         | [Risks posed by AI are real](https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives)
 W 04/19/23      | C11 - Staying Synchronized                              [ [Slides][s11] ]      | [HW11][hw11]         | [Disinformation Researchers Raise Alarms about A.I. Chatbots](https://lms.dickinson.edu/mod/resource/view.php?id=1182164)
 W 04/26/23      | C12 - Resolving Merge Conflicts                         [ [Slides][s12] ]      | [HW12][hw12]         | No Reading
-                | **Navigating Code**                                                            |                      |
+&nbsp;          | **Navigating Code**                                                            |                      |
 W 05/03/23      | C13 - Navigating Code                                   [ [Slides][s13] ]      | [HW13][hw13]         | 
-                |                                                                                |                      |
+&nbsp;          |                                                                                |                      |
 Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be complete.            |                      |
 
 
@@ -62,10 +62,8 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> No Exam - All work must be comp
 [s13]: materials/13-S-NavigatingCode.pptx
 [hw13]: materials/13-A-NavigatingCode.docx
 
-<!--
 <!--[Why the Constitution Can Protect Passwords But Not Fingerprint Scans](https://lms.dickinson.edu/mod/resource/view.php?id=1152825) -->
 <!--[How the Supreme Court Could Rewrite the Rules for DNA Searches](https://lms.dickinson.edu/mod/resource/view.php?id=1152826) -->
--->
 
 ---
 
